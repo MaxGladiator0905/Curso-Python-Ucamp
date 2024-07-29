@@ -76,10 +76,7 @@ def main():
             peso_ideal_min, peso_ideal_max = calcular_peso_ideal(altura)
             # Muestra el rango de peso ideal
             print(f"Peso ideal: entre {peso_ideal_min:.2f} kg y {peso_ideal_max:.2f} kg\n")
-        else:
-            # Agradece al usuario si no desea saber el peso ideal
-            print("Gracias por haber utilizado esta calculadora de I.M.C. :) ")
-    
+   
     # Mensaje de despedida al finalizar el programa
     print(" Gracias por haber utilizado esta calculadora de I.M.C. Espero te haya sido de gran ayuda :)")
 
