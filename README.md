@@ -8,3 +8,5 @@ Luego, calcula el IMC y proporciona una categoría de clasificación basada en e
 En verdad he disfrutado mucho, el avance que he tenido hasta el momento, las clases han sido muy faciles de entender y el material brindado ha sido sumamente amigable.
 
 En resumen, este proyecto no solo brinda una herramienta útil para calcular el IMC, sino que también resalta la importancia de buenas prácticas de programación, como la validación de datos, la interacción clara con el usuario y la estructura modular del código.
+
+En verdad he disfrutado mucho este primer modulo del Bootcamp, todo lo que he visto y oido ha sido muy facil de comprender.
